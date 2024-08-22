@@ -5,3 +5,14 @@ The project is part of a Fundação Bradesco course in partnership with Microsof
 
 // Tradução
 O projeto é de um curso da Fundação Bradesco em parceria com a Microsoft. Titulada "Criando site com HTML, CSS e Javascript", o projeto usa as três tecnologias web com o intuito do usuário desenvolver familiaridade
+
+Tecnologias usadas
+- HTML
+- CSS
+- JavaScript
+
+Autor
+Pedro José Rodrigues Gomes
+E-mail: pd420000@gmail.com
+Linkendin: https://www.linkedin.com/in/pedro-jos%C3%A9-438a45201/
+
